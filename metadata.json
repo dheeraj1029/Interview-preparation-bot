@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Coach",
+  "description": "An AI-powered chatbot that simulates technical and behavioral interviews. It provides real-time feedback, scoring, and a final summary report to help job seekers prepare and improve.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
